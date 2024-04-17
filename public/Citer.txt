@@ -1,0 +1,9 @@
+add a nav bar of light colour i may import it from chat gpt 
+
+.. make a blog page by writing a blog of information
+.. import quote cards and use response. map () function to return multiple copies of the same card 
+.. let pass props to the card to access the author the text 
+
+... now lets search about more quotes 
+... accessing the content written in a search bar by getting attribute by id . innertextof it .
+... now just pass it in the api part and pass the no of .quotes  
